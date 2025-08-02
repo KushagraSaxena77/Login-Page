@@ -5,7 +5,7 @@ This repository contains a simple and customisable login page built for demonstr
 ## Features
 
 - Clean and responsive user interface
-- Easy-to-understand codebase
+- Easy to understand codebase
 - Frontend form validation
 - Modular structure for easy customization
 - Simple logic for handling user input
